@@ -1,0 +1,24 @@
+body{
+    background-color: black;
+    background-image: url("images/entrepreneural.jpg");
+    background-repeat: no-repeat;
+    background-size: 50%;
+    background-position: center 1px;
+}
+h3{
+    background-color:  plum;
+    color: purple;
+    margin-left: 50%;
+    margin-right: 25%;
+    margin-top: 5%;
+}
+h1{
+    color: purple;
+    background-color: plum;
+    margin-left: 35%;
+    margin-right: 35%;
+    margin-top: 5%;
+}
+a{
+    color: magenta;
+}
